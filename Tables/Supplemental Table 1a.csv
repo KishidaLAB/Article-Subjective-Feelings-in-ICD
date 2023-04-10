@@ -1,0 +1,31 @@
+﻿Patient ID,Age,Sex,First Visit Medication Status,Carbidopa / Levodopa,Pramipexole,Ropinirole,Amantadine,Other,All Parkinson's Disease Medications
+ICD 1,63,M,OFF,1,0,0,0,1,Carbidopa / Levodopa; Rivastigmine
+ICD 2,66,M,OFF,1,1,0,0,0,Carbidopa / Levodopa; Pramipexole
+ICD 3,79,M,ON,1,1,0,0,0,Carbidopa / Levodopa; Pramipexole
+ICD 4,72,M,ON,1,0,0,0,0,Carbidopa / Levodopa
+ICD 5,76,F,OFF,1,0,0,0,0,Carbidopa / Levodopa
+ICD 6,63,M,OFF,1,0,0,0,0,Carbidopa / Levodopa; Rasagiline; Rivastigmine
+ICD 7,65,M,OFF,1,1,0,0,0,Carbidopa / Levodopa; Pramipexole
+ICD 8,60,M,ON,1,0,0,0,0,Carbidopa / Levodopa
+ICD 9,65,F,OFF,1,0,1,0,0,Carbidopa / Levodopa; Ropinirole
+ICD 10,65,F,ON,1,0,1,0,0,Carbidopa / Levodopa; Ropinirole
+ICD 11,67,F,ON,1,0,1,0,0,Carbidopa / Levodopa; Ropinirole
+ICD 12,60,M,OFF,1,0,0,0,0,Carbidopa / Levodopa
+ICD 13,63,F,OFF,1,0,0,0,1,Carbidopa / Levodopa; Rasagiline
+ICD 14,67,F,OFF,1,0,0,0,0,Carbidopa / Levodopa
+ICD 15,51,F,ON,1,0,0,0,0,Carbidopa / Levodopa
+ICD 16,65,M,OFF,1,0,0,0,0,Carbidopa / Levodopa
+ICD 17,70,M,OFF,1,0,0,1,1,Carbidopa / Levodopa; Amantadine; Selegiline
+ICD 18,61,M,OFF,1,0,1,1,1,Carbidopa / Levodopa; Ropinirole; Amantadine; Rasagiline
+NonICD 1,65,F,ON,1,0,0,0,0,Carbidopa / Levodopa
+NonICD 2,61,F,OFF,1,0,0,0,0,Carbidopa / Levodopa
+NonICD 3,69,M,ON,1,0,0,0,0,Carbidopa / Levodopa
+NonICD 4,80,M,OFF,1,0,0,0,0,Carbidopa / Levodopa
+NonICD 5,65,M,ON,1,0,1,0,1,Carbidopa / Levodopa; Ropinirole; Trihexyphenidyl
+NonICD 6,62,M,ON,1,0,0,1,1,Carbidopa / Levodopa; Amantadine; Aricept
+NonICD 7,76,M,ON,1,0,0,0,1,Carbidopa / Levodopa; Entacapone
+NonICD 8,77,M,OFF,1,0,0,0,0,Carbidopa / Levodopa
+NonICD 9,61,M,OFF,1,0,0,0,0,Carbidopa / Levodopa
+NonICD 10,78,F,OFF,1,0,0,0,0,Carbidopa / Levodopa
+NonICD 11,65,F,ON,1,0,0,0,0,Carbidopa / Levodopa
+NonICD 12,67,F,ON,1,0,0,1,0,Carbidopa / Levodopa; Amantadine
